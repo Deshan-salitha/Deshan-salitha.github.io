@@ -60363,7 +60363,7 @@ I(a){var s=null
 return new A.dq(B.cn,A.hi(A.a([new A.mj(new A.lM(119,"K+",s),"Subscribers",s),new A.mj(new A.lM(40,"+",s),"Videos",s),new A.mj(new A.lM(30,"+",s),"GitHub Projects",s),new A.mj(new A.lM(13,"K+",s),"Stars",s)],t.p),B.K,B.fI,B.a9),s)}}
 A.EJ.prototype={
 I(a){var s=null
-return new A.oc(1.23,A.fh(s,A.ex(A.a([new A.ip(1,s),new A.B_(new A.od("images/IMG_7344.jpg",s,s),50,s),new A.ip(1,s),A.cb("Deshan Salitha",s,s,A.aG(a).RG.x,s,s),A.cb("Backend Developer & \n Tech Enthusiast",s,s,A.dU(s,s,s,s,s,s,s,s,s,s,s,s,s,s,B.bL,s,1.5,!0,s,s,s,s,s,s,s,s),B.kg,s),new A.ip(2,s)],t.p),B.K,B.Gg),B.o,new A.k(4280558640),s,s,s,s,s,s,s,s,s),s)}}
+return new A.oc(1.23,A.fh(s,A.ex(A.a([new A.ip(1,s),new A.B_(new A.od("assets/images/IMG_7344.jpg",s,s),50,s),new A.ip(1,s),A.cb("Deshan Salitha",s,s,A.aG(a).RG.x,s,s),A.cb("Backend Developer & \n Tech Enthusiast",s,s,A.dU(s,s,s,s,s,s,s,s,s,s,s,s,s,s,B.bL,s,1.5,!0,s,s,s,s,s,s,s,s),B.kg,s),new A.ip(2,s)],t.p),B.K,B.Gg),B.o,new A.k(4280558640),s,s,s,s,s,s,s,s,s),s)}}
 A.EK.prototype={
 I(a){var s=null,r=A.cb("My Projects",s,s,A.aG(a).RG.r,s,s)
 $.afD()
