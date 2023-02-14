@@ -61502,7 +61502,7 @@ b.slJ(0,this.r)
 b.sl7(this.w)}}
 A.Fm.prototype={
 H(a){var s=null,r=A.aj8(B.S,s),q=A.av(a).RG,p=A.ft(q.a),o=A.ft(q.b),n=A.ft(q.c),m=A.ft(q.e),l=A.ft(q.f),k=A.ft(q.r),j=A.ft(q.w),i=A.ft(q.x),h=A.ft(q.y),g=A.ft(q.z),f=A.ft(q.Q)
-return new A.vv(new A.Ex(s),"Flutter Demo",r.ZC(B.f6,B.dm,B.f6,A.a4Y(s,s,s,h,g,A.ft(q.as),f,s,s,s,p,o,n,m,l,k,s,s,s,s,s,s,A.ft(q.ax),j,i,s,s,s).Yi(B.i).Zr(A.eL(s,s,B.lX,s,s,s,s,s,s,s,s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),A.eL(s,s,B.lX,s,s,s,s,s,s,s,s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s))),!1,s)}}
+return new A.vv(new A.Ex(s),"Deshan-Salitha",r.ZC(B.f6,B.dm,B.f6,A.a4Y(s,s,s,h,g,A.ft(q.as),f,s,s,s,p,o,n,m,l,k,s,s,s,s,s,s,A.ft(q.ax),j,i,s,s,s).Yi(B.i).Zr(A.eL(s,s,B.lX,s,s,s,s,s,s,s,s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),A.eL(s,s,B.lX,s,s,s,s,s,s,s,s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s))),!1,s)}}
 A.GA.prototype={}
 A.Ho.prototype={
 H(a){var s=this,r=a.S(t.w).f.a.a
@@ -61562,7 +61562,7 @@ H(a){var s=null,r=t.p
 return A.fm(A.a([A.SZ(),new A.dS(B.fg,A.dt("Coding",s,s,A.av(a).RG.x,s,s),s),A.fm(A.a([new A.iV(0.8,"Java",s),new A.iV(0.7,"Python",s),new A.iV(0.9,"HTML",s),new A.iV(0.75,"CSS",s),new A.iV(0.4,"JavaScript",s),new A.iV(0.45,"Flutter",s)],r),B.Z,B.M)],r),B.Z,B.M)}}
 A.Fo.prototype={
 H(a){var s=null
-return new A.ol(1.23,A.ex(s,A.fm(A.a([new A.ir(1,s),new A.BF(new A.om("images/DSC_0914.JPG",s,s),50,s),new A.ir(1,s),A.dt("Deshan Salitha",s,s,A.av(a).RG.x,s,s),A.dt("Backend Developer & \n Tech Enthusiast",s,s,A.eL(s,s,s,s,s,s,s,s,s,s,s,s,s,s,B.bQ,s,1.5,!0,s,s,s,s,s,s,s,s),B.kr,s),new A.ir(2,s)],t.p),B.Z,B.Gu),B.n,new A.k(4280558640),s,s,s,s,s,s,s,s,s),s)}}
+return new A.ol(1.23,A.ex(s,A.fm(A.a([new A.ir(1,s),new A.BF(new A.om("assets/images/DSC_0914.JPG",s,s),50,s),new A.ir(1,s),A.dt("Deshan Salitha",s,s,A.av(a).RG.x,s,s),A.dt("Backend Developer & \n Tech Enthusiast",s,s,A.eL(s,s,s,s,s,s,s,s,s,s,s,s,s,s,B.bQ,s,1.5,!0,s,s,s,s,s,s,s,s),B.kr,s),new A.ir(2,s)],t.p),B.Z,B.Gu),B.n,new A.k(4280558640),s,s,s,s,s,s,s,s,s),s)}}
 A.vJ.prototype={
 ah(){return new A.LS(B.k)}}
 A.LS.prototype={
