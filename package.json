@@ -4,7 +4,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@emotion/react": "^11.11.4",
+    "@emotion/react": "^latest",
     "@emotion/styled": "^11.11.5",
     "@mui/lab": "^5.0.0-alpha.170",
     "@mui/material": "^5.15.15",
